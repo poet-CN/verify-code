@@ -1,5 +1,6 @@
 获取验证码插件，依赖vue，element ui
-* 接收参数：
+
+接收参数：
 * type: 验证码类型；
 * phone: 手机号；
 * disableBtn: Boolean格式，是否采用文字形式的“获取验证码”，若为否或不传，则为按钮形式；
